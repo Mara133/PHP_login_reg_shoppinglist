@@ -1,0 +1,19 @@
+body {
+ background-image: url('img/thumb-1920-255833.jpg') !important; 
+	 background-repeat:no-repeat;
+	background-size: cover;
+	min-height:100%;
+
+  }
+
+  .footer{
+    color:black;
+    margin-top: 50px;
+    text-align: center;
+	height:50px;
+	width:100%;
+	position: fixed;
+	bottom:0px;
+	left:0px;
+	padding-top:20px;
+}
